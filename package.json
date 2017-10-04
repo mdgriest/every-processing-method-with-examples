@@ -1,0 +1,24 @@
+{
+  "name": "every-processing-method-with-examples",
+  "version": "1.0.0",
+  "description": "In this repository I hope to demonstrate every method in the Processing Java framework with simple examples.",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdgriest/every-processing-method-with-examples.git"
+  },
+  "author": "Mitchell Griest",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdgriest/every-processing-method-with-examples/issues"
+  },
+  "homepage": "https://github.com/mdgriest/every-processing-method-with-examples#readme",
+  "devDependencies": {
+    "colors": "^1.1.2",
+    "command-line-args": "^4.0.7",
+    "command-line-usage": "^4.0.1",
+    "ejs": "^2.5.7",
+    "mkdirp": "^0.5.1",
+    "moment": "^2.18.1"
+  }
+}
